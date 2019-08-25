@@ -4,6 +4,8 @@ Veichle number plate detection and OCR extraction using tensorflow and colab
 This repositary demonstrates the veichle number plate detection using custom dataset.
 The solution is proposed via transfer learning where the dataset is trained using faster_rcnn_inception_v2_coco_2018_01_28 model.
 
+Check out the humain.ipynb notebook in colab for the source code.
+
 # Framework : Tensorflow 
 
 # Model : Object detection API  [faster_rcnn_inception_v2_coco_2018_01_28]
